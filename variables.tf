@@ -8,7 +8,7 @@ variable "name" {
 
 variable "repository" {
   type        = string
-  default     = "https://github.com/opsstation/terraform-aws-pritunl"
+  default     = "https://github.com/sohanyadav/terraform-aws-pritunl"
   description = "Terraform current module repo"
 
   validation {
